@@ -67,6 +67,7 @@ html, body {
 }
 
 #flat p {
+	color: black;
  font-family: 'Source Sans Pro', sans-serif;
  font-weight: 400;
  font-size: 14px;
@@ -181,17 +182,17 @@ html, body {
 
 
 #flat .line-break {
- background: linear-gradient(60deg, #FFFF00, #FF8C00, #FF4500);
+ background: linear-gradient(60deg, #8B0000, #FF8C00, #FF4500);
  width: 100%;
  margin: 0 auto;
 }
 #flat .line-break2 {
- background: linear-gradient(60deg, #FF4500, #FFFF00, #FF8C00);
+ background: linear-gradient(60deg, #DC143C, #FFFF00, #FF8C00);
  width: 100%;
  margin: 0 auto;
 }
 #flat .line-break3 {
- background: linear-gradient(60deg, #FF4500, #FF8C00, #FFFF00);
+ background: linear-gradient(60deg, #CD5C5C, #FF8C00, #FFFF00);
  width: 100%;
  margin: 0 auto;
 }
