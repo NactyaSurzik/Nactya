@@ -443,7 +443,11 @@ width: 95%;
   color: #2E8B57 !important;
 
 }
- float: left;
+ .gradient {
+ color: black;
+ font-family: "Arial", sans-serif;
+}
+float: left;
 
  font-size: 84px;
 
@@ -455,4 +459,4 @@ width: 95%;
 
  padding-left: 3px;
 
- font-family: 'Montserrat', sans-serif; 
+ font-family: 'Montserrat', sans-serif;
